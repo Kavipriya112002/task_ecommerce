@@ -1,0 +1,16 @@
+.product-page{
+  width: 100%;
+  padding-top: 60px;
+  padding-left: 40px;
+}
+.pro_div{
+  display: flex;
+  justify-content: space-around;
+}
+.pro_div p{
+  padding-left: 200px;
+  padding-right: 200px;
+}
+.prodivi2{
+  text-align: center;
+}

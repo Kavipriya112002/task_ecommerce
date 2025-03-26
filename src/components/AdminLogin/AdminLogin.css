@@ -1,0 +1,26 @@
+.admin-login-container{
+  margin-top: 0px;
+  padding-top: 0px;
+  height: 100vh;
+  background-image: url(https://plus.unsplash.com/premium_photo-1677995700883-30df169c7517?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZSUyMGNvbW1lcmNlJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.admin-login-container h2{
+  text-align: center;
+  padding-top: 50px;
+}
+
+.admin-login-container input{
+  padding-left: 20px;
+  margin-left: 550px;
+  width: 400px;
+  height: 30px;margin-bottom: 20px;
+}
+.login{
+  margin-left: 710px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}

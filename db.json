@@ -1,0 +1,166 @@
+{
+  "inventory": [
+    {
+      "id": "1sd",
+      "name": "BeautyProducts",
+      "image": "https://images.unsplash.com/photo-1617422275558-e5f616302690?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 2000,
+      "discount": 60,
+      "quantity": 2,
+      "description": "Mate shade + light color lipstick from lackme ,iconioc and 100+ top brand with high quality,from budget-friendly drugstore brands to high-end luxury brands"
+    },
+    {
+      "id": "2fdf",
+      "name": "Groceries",
+      "image": "https://images.unsplash.com/photo-1467825487722-2a7c4cd62e75?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fGdyb2Nlcmllc3xlbnwwfHwwfHx8MA%3D%3D",
+      "price": 200,
+      "discount": 20,
+      "quantity": 2,
+      "description": "Stawberry from grocery store ,will get less price with high quality while buy for wholesale ,fruits and vegitables from nearer hills and forests.Available at any time."
+    },
+    {
+      "id": "3fd",
+      "name": "Furnitures",
+      "image": "https://images.unsplash.com/photo-1654064550858-c62b971a378a?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 18000,
+      "discount": 20,
+      "quantity": 2,
+      "description": "Affordable to luxurious bed ,this is mixed cotton,silk with smooth finishing,but the style suggests a modern and minimalist aesthetic and it is high quality and better to sleep comfortable."
+    },
+    {
+      "id": "4dfd",
+      "name": "shirts",
+      "image": "https://media.istockphoto.com/id/822119630/photo/white-t-shirt-on-concrete-background.webp?a=1&s=612x612&w=0&k=20&c=9_y467eRHkcOA73hPDZxuno_jBXciSrxHQQWrNH-vMc=",
+      "price": 1500,
+      "discount": 20,
+      "quantity": 2,
+      "description": "Otto's  number 1 white T shirt edision out,offordable and cost efficient smooth and comfortable to wear at any place "
+    },
+    {
+      "id": "5th",
+      "name": "Accessories",
+      "image": "https://media.istockphoto.com/id/532273550/photo/detal-of-woman-wearing-a-luxury-pendant.jpg?s=612x612&w=0&k=20&c=Wq886bBuhV-nzWeYEkS_q6Er8qjeix55xqFQj90hrkY=",
+      "price": 800,
+      "discount": 20,
+      "quantity": 2,
+      "description": "Delicate, thin necklace, likely made of a light-colored metal such as silver or white gold. It features small links that catch the light subtly. The chain supports a pendant with a vibrant blue, heart-shaped gemstone surrounded by smaller, clear stones"
+    },
+    {
+      "id": "6hyj",
+      "name": "Laptops",
+      "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bGFwdG9wfGVufDB8fDB8fHww",
+      "price": 40000,
+      "discount": 20,
+      "quantity": 2,
+      "description": "smooth, possibly matte or a brushed metal texture.a standard clamshell laptop, a common and versatile design."
+    },
+    {
+      "id": "7juj",
+      "name": "Maxi for women",
+      "image": "https://media.istockphoto.com/id/1387295255/photo/tourist-exploring-the-streets.jpg?s=612x612&w=0&k=20&c=mT_J_f-vgJbTzF9sl5JH0QjqZrX1TWPX1XdW6PbDRTk=",
+      "price": 1300,
+      "discount": 20,
+      "quantity": 2,
+      "description": "The dress has a loose, flowing silhouette. It to have a relaxed fit, typical of many maxi dresses, which prioritizes comfort and freedom of movement.light-colored, likely white or a very pale shade."
+    },
+    {
+      "id": "8juy",
+      "name": "shoes",
+      "image": "https://media.istockphoto.com/id/2149914532/photo/sport-sneakers-floating-on-pink-background.jpg?s=612x612&w=0&k=20&c=IIrNY4wWaxQ-uPlZumj-wWCXjiwLg9IBndCoZb303aE=",
+      "price": 1800,
+      "discount": 20,
+      "quantity": 2,
+      "description": "Athletic shoe for both men and women wear,hoka one one ,known for their maximalist cushioning and Refers to perform run,walk,jalk etc"
+    },
+    {
+      "id": "9uhh",
+      "name": "Facial Serium",
+      "image": "https://plus.unsplash.com/premium_photo-1679448059883-c5622f49f095?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8",
+      "price": "600",
+      "discount": "30",
+      "quantity": "1",
+      "description": "A lightweight, fast-absorbing facial serum that deeply hydrates and nourishes the skin. Packed with essential nutrients, it enhances skin elasticity and reduces signs of aging. Perfect for daily skincare routines to achieve a radiant, healthy glow."
+    },
+    {
+      "id": "10poi",
+      "name": "Formal Bag",
+      "image": "https://images.unsplash.com/photo-1546938576-6e6a64f317cc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDIyfHx8ZW58MHx8fHx8",
+      "price": "1000",
+      "discount": "100",
+      "quantity": "2",
+      "description": "A sleek and durable backpack designed for modern travelers and professionals. Features multiple compartments for organized storage and a padded section for laptops. Lightweight yet sturdy, ensuring comfort and style on the go."
+    },
+    {
+      "id": "11ioh",
+      "name": "Kids wear",
+      "image": "https://plus.unsplash.com/premium_photo-1702498664802-c7a1ad1afcac?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE4fHx8ZW58MHx8fHx8",
+      "price": "600",
+      "discount": "30",
+      "quantity": "1",
+      "description": "A trendy and comfortable outfit for active kids, featuring a soft hoodie and breathable sneakers. Designed with vibrant colors and a playful aesthetic for style and fun. Ideal for casual wear, ensuring both warmth and flexibility."
+    },
+    {
+      "id": "12lk",
+      "name": "Premium sofa",
+      "image": "https://plus.unsplash.com/premium_photo-1681046751108-a516bea00570?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHNvZmF8ZW58MHx8MHx8fDA%3D",
+      "price": "15,000",
+      "discount": "1000",
+      "quantity": "2",
+      "description": "A sophisticated, high-quality sofa with a modern and minimalistic design. Crafted with premium fabric and plush cushioning for superior comfort and elegance. Perfect for enhancing any living space with timeless charm and functionality."
+    }
+  ],
+  "cart": [
+    {
+      "id": "1sd",
+      "name": "BeautyProducts",
+      "image": "https://images.unsplash.com/photo-1617422275558-e5f616302690?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 2000,
+      "discount": 60,
+      "quantity": 2,
+      "description": "Mate shade + light color lipstick from lackme ,iconioc and 100+ top brand with high quality"
+    },
+    {
+      "id": "4dfd",
+      "name": "shoes",
+      "image": "https://media.istockphoto.com/id/801305430/photo/studio-shot-of-young-handsome-man-wearing-black-shirt-against-gray-background.jpg?s=612x612&w=0&k=20&c=0LW0HaOb-KmqcPx96vgJ1ThxBbH5Ro_T0TdZ988H9qM=",
+      "price": 1800,
+      "discount": 20,
+      "quantity": 1,
+      "description": "New product"
+    },
+    {
+      "id": "11ioh",
+      "name": "Kids wear",
+      "image": "https://plus.unsplash.com/premium_photo-1702498664802-c7a1ad1afcac?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE4fHx8ZW58MHx8fHx8",
+      "price": "600",
+      "discount": "30",
+      "quantity": "1",
+      "description": "A trendy and comfortable outfit for active kids, featuring a soft hoodie and breathable sneakers. Designed with vibrant colors and a playful aesthetic for style and fun. Ideal for casual wear, ensuring both warmth and flexibility."
+    },
+    {
+      "id": "3fd",
+      "name": "Furnitures",
+      "image": "https://images.unsplash.com/photo-1654064550858-c62b971a378a?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 18000,
+      "discount": 20,
+      "quantity": 2,
+      "description": "Affordable to luxurious bed ,this is mixed cotton,silk with smooth finishing,but the style suggests a modern and minimalist aesthetic and it is high quality and better to sleep comfortable."
+    },
+    {
+      "id": "3fd",
+      "name": "Furnitures",
+      "image": "https://images.unsplash.com/photo-1654064550858-c62b971a378a?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 18000,
+      "discount": 20,
+      "quantity": 2,
+      "description": "Affordable to luxurious bed ,this is mixed cotton,silk with smooth finishing,but the style suggests a modern and minimalist aesthetic and it is high quality and better to sleep comfortable."
+    }
+  ],
+  "admins": [
+    {
+      "id": "1",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    }
+  ]
+}
