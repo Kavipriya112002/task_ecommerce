@@ -24,7 +24,7 @@ const ProductPage = () => {
         <div className="pro_div">
           <div><img src={product.image} alt={product.name} height="300" width="550"/></div>
           <div className="prodivi2"><h3>{product.name}</h3>
-          <h2>{product.price}</h2>
+          <h2>₹{product.price}</h2>
           <p>{product.description}</p>
           <button onClick={addToCart}>Add to Cart</button></div></div>
           <br/> 
