@@ -1,7 +1,10 @@
 To run the website enter the following comment-open the new terminal run the below
+
    npm install
    npx json-server --watch db.json --port 5000
+   
  open a new terminal without close the existing,enter
+ 
    npm start
 
   
